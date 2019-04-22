@@ -1,3 +1,4 @@
-git is a dis version contorl system
+git is a distributed version contorl system
 Git is free software
-
+git has a point HEAD
+gigigigigi
